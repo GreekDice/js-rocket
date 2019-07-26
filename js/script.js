@@ -1,3 +1,7 @@
+var tip = function(clue) {
+    alert('In the console type: '+clue);
+}
+
 var car = {
     make: 'VW',
     type: 'Polo',
